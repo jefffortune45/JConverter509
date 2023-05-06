@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JConverter", "JConverter\JConverter.csproj", "{34FC090E-05FF-4191-B765-5EC03952DE44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34FC090E-05FF-4191-B765-5EC03952DE44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34FC090E-05FF-4191-B765-5EC03952DE44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34FC090E-05FF-4191-B765-5EC03952DE44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34FC090E-05FF-4191-B765-5EC03952DE44}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5145C7D4-987E-4F12-AF69-D63754F792E9}
+	EndGlobalSection
+EndGlobal
